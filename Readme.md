@@ -1,0 +1,1 @@
+This code is about how to check the strength of the password entered by the user, it is accomplished using HTML,CSS and JavaScript.
